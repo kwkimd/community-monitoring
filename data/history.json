@@ -3,7 +3,7 @@
     "period": "2026-04-13~2026-04-19",
     "label": "4/13(월)~4/19(일)",
     "mode": "weekly",
-    "generated_at": "2026-04-22T14:58:15.971025",
+    "generated_at": "2026-04-22T15:08:54.512676",
     "report_url": "archives/report_주간_4-13(월)_4-19(일).html",
     "services": [
       {
@@ -14,12 +14,17 @@
           {
             "name": "우가클 효과·피해 불만",
             "level": 2,
-            "post_count": 27
+            "post_count": 25
           },
           {
             "name": "노출 알고리즘 불만",
-            "level": 0,
-            "post_count": 4
+            "level": 1,
+            "post_count": 7
+          },
+          {
+            "name": "배달 운영 불만",
+            "level": 1,
+            "post_count": 5
           },
           {
             "name": "비용·수수료 부담",
@@ -27,14 +32,9 @@
             "post_count": 4
           },
           {
-            "name": "즉시할인 불만",
-            "level": 0,
-            "post_count": 3
-          },
-          {
             "name": "기타",
             "level": 0,
-            "post_count": 11
+            "post_count": 8
           }
         ]
       },
@@ -61,12 +61,7 @@
           {
             "name": "서비스 운영 문의",
             "level": 0,
-            "post_count": 2
-          },
-          {
-            "name": "기타",
-            "level": 0,
-            "post_count": 1
+            "post_count": 3
           }
         ]
       },
@@ -78,7 +73,7 @@
           {
             "name": "배민 수익구조 비판",
             "level": 1,
-            "post_count": 5
+            "post_count": 9
           },
           {
             "name": "한그릇 혜택·정책 문의",
@@ -88,7 +83,7 @@
           {
             "name": "메뉴·서비스 불만",
             "level": 1,
-            "post_count": 8
+            "post_count": 7
           },
           {
             "name": "한그릇 수익성 불만",
@@ -98,7 +93,7 @@
           {
             "name": "기타",
             "level": 0,
-            "post_count": 15
+            "post_count": 12
           }
         ]
       }
